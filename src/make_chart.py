@@ -81,7 +81,7 @@ def plot(rows_by_set: dict, out_path: Path) -> None:
         ax.grid(True, alpha=0.3)
     axes[0].set_ylabel("Pass rate (%)")
     fig.suptitle(
-        "Model routing: quality vs cost  (up and to the left is better)", fontsize=12)
+        "Model routing: quality vs cost", fontsize=12)
     fig.tight_layout()
     fig.savefig(out_path, dpi=160)
 
