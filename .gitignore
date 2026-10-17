@@ -1,0 +1,14 @@
+# secrets - never commit
+.env
+
+# python / environment
+venv/
+__pycache__/
+*.pyc
+
+# raw model outputs (contain answers to third-party benchmark questions)
+results/*.jsonl
+
+# public benchmark questions: regenerate with src/prepare_dataset.py (check each dataset's license first)
+data/public_questions.jsonl
+data/public_test.jsonl

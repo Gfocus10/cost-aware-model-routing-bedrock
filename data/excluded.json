@@ -1,0 +1,6 @@
+{
+  "public_questions": {
+    "ARCC04": "Questionable key: asks for the graph giving the most detail about speeds in a range; key says scatterplot, but a stem-and-leaf plot (which shows every value) fits the wording at least as well. Sonnet, Nova Lite and the author all chose stem-and-leaf.",
+    "GSM27": "Ambiguous wording: 'another 1/4 of his land' can mean 1/4 of the original 80 m2 (answer 140) or 1/4 of the 40 m2 left (key: 170). All three tiers and the author read it the first way."
+  }
+}

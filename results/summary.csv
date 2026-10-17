@@ -1,0 +1,15 @@
+set,setup,pass_rate_pct,cost_usd,cost_pct_of_strong
+Dev set - 87 questions,always-cheap,93.1,0.000957,0.9
+Dev set - 87 questions,always-mid,93.1,0.001455,1.4
+Dev set - 87 questions,always-strong,98.9,0.106095,100.0
+Dev set - 87 questions,oracle (ceiling),100.0,0.005306,5.0
+Dev set - 87 questions,"difficulty router (3,4)",94.3,0.002370,2.2
+Dev set - 87 questions,"difficulty router (3,3)",96.6,0.029886,28.2
+Dev set - 87 questions,agreement check,98.9,0.020071,18.9
+Test set (unseen) - 120 questions,always-cheap,91.7,0.002070,1.1
+Test set (unseen) - 120 questions,always-mid,95.0,0.002817,1.5
+Test set (unseen) - 120 questions,always-strong,100.0,0.186525,100.0
+Test set (unseen) - 120 questions,oracle (ceiling),100.0,0.003795,2.0
+Test set (unseen) - 120 questions,"difficulty router (3,4)",92.5,0.004014,2.2
+Test set (unseen) - 120 questions,"difficulty router (3,3)",94.2,0.058290,31.3
+Test set (unseen) - 120 questions,agreement check,98.3,0.025899,13.9
